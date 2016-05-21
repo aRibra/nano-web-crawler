@@ -1,7 +1,7 @@
 # nano-web-crawler
   
 # Brief  
-A nano web crawler that downloads videos from youtube according to a search query and extracts video frames every 'x time'.  
+A nano web crawler that searches for, and downloads videos form google according to a search query and extracts video frames every 'x time'.  
   
     
 ## Python Script
