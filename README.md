@@ -7,11 +7,11 @@ A nano web crawler that searches for, and downloads videos from google according
 ## Python Script
 - Search query keywords are defined in an array.  
 - A downloader thread is created and started per search query keyword in the array.   
-- Downloaded videos are saved in a previously define path in the system.   
+- Downloaded videos are saved in a previously defined path in the system.   
   
 ## C++ code
 - Reads downloaded files.  
-- Captrues frames every 'x μs'.  
+- Captures frames every 'x μs'.  
 - Saves frames in JPEG format.  
   
 ## Libraries
